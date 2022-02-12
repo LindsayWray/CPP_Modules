@@ -1,0 +1,48 @@
+ADD
+Gandalf
+the Grey
+Mithrandir
+1234
+Cannot die
+ADD
+Frodo
+Baggins
+Ringbearer
+22222
+wants to go back to mordor
+ADD
+Saruman
+the White
+Lord of Isengard
+XXX-XX
+loves bubblebaths
+ADD
+Smeagol
+*unknown*
+Gollum
+0
+misses precious
+ADD
+Legolas
+son of Thranduil
+Green leaf
+*****
+has a dwarven girlfriend
+ADD
+Samwise
+Gamgee
+Gardener
+888-88888
+Ate all the lembas
+ADD
+Gimli
+son of Gloin
+Elf-Friend
+9876543
+Respects Legolas
+ADD
+Treebeard
+Of Forest Fangorn
+Ent Boss
+^|^|^|^
+likes the taste of Hobbits
